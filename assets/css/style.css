@@ -1,5 +1,7 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 
 /*===== VARIABLES CSS =====*/
 :root {
@@ -532,4 +534,10 @@ img {
     .home__img {
         right: 10%;
     }
+}
+
+.work__img p{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 10px;
+    text-align: center;
 }
