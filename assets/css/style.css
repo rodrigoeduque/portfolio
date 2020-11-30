@@ -492,7 +492,6 @@ img {
     .home__img {
         width: 457px;
         bottom: 15%;
-        border-radius: 10px;
     }
 
     .about__container,
@@ -532,6 +531,5 @@ img {
 
     .home__img {
         right: 10%;
-        border-radius: 10px;
     }
 }
